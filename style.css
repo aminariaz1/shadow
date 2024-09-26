@@ -1,0 +1,44 @@
+body{
+    background-color:rgb(161, 92, 92);
+}
+h1{
+    color: white;
+    text-shadow: 0 0 5px red , 0 0 10px white , 0 0 15px rgb(26, 224, 221);
+}
+h2{
+    color: rgb(255, 255, 255);
+    text-shadow: 5px 5px 20px blue;
+}
+h3{
+    color: beige;
+    text-shadow: 0 0 10px rgb(255, 255, 255); 
+}
+h4{
+    color: white;
+    text-shadow: 0 0 20px red;
+}
+h5{
+    color: white;
+    text-shadow:  0 0 50px blue;
+}
+h6{
+    color: white;
+    text-shadow: 0 0 60px gold;
+}
+.eng{
+    color: white;
+    text-shadow: 3px 3px  3px black;
+}
+.eng2{
+    color: white;
+    text-shadow: 3px 3px  3px purple;
+}
+#one{
+    color: white;
+    text-shadow: 0 0 3px red;
+}
+#two{
+    color: white;
+    text-shadow: 3px 3px  3px blue;
+}
+
